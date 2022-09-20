@@ -1,0 +1,15 @@
+C:\Users\aleks\Desktop\itogi bloka\zada4a\bin\Debug\net6.0\zada4a.exe
+C:\Users\aleks\Desktop\itogi bloka\zada4a\bin\Debug\net6.0\zada4a.deps.json
+C:\Users\aleks\Desktop\itogi bloka\zada4a\bin\Debug\net6.0\zada4a.runtimeconfig.json
+C:\Users\aleks\Desktop\itogi bloka\zada4a\bin\Debug\net6.0\zada4a.dll
+C:\Users\aleks\Desktop\itogi bloka\zada4a\bin\Debug\net6.0\zada4a.pdb
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.csproj.AssemblyReference.cache
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.AssemblyInfoInputs.cache
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.AssemblyInfo.cs
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.csproj.CoreCompileInputs.cache
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.dll
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\refint\zada4a.dll
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.pdb
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\zada4a.genruntimeconfig.cache
+C:\Users\aleks\Desktop\itogi bloka\zada4a\obj\Debug\net6.0\ref\zada4a.dll
