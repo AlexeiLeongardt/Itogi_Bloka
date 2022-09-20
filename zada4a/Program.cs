@@ -10,3 +10,12 @@ for (int i = 0; i < mas1.Length; i++)
     Console.Write("Введите элемент массива:");
     mas1[i]=Convert.ToString(Console.ReadLine());
 }
+int count = 0;
+for (int i = 0; i < mas1.Length; i++)
+{
+    if (mas1[i].Length <= 3)
+    {
+        mas2[count] = mas1[i];
+        count=count+1;
+    }
+}
