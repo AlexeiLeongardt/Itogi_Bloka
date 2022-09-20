@@ -19,3 +19,9 @@ for (int i = 0; i < mas1.Length; i++)
         count=count+1;
     }
 }
+Console.Write("Выводим новый массив:");
+for (int i = 0; i < mas2.Length; i++)
+{
+    Console.Write(" "+mas2[i]+" ");
+}
+Console.WriteLine();
