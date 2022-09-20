@@ -8,7 +8,7 @@ string[] mas2 = new string[mas1.Length];
 for (int i = 0; i < mas1.Length; i++)
 {
     Console.Write("Введите элемент массива:");
-    Convert.ToString(Console.ReadLine());
+    mas1[i] =Convert.ToString(Console.ReadLine());
 }
 int count = 0;
 for (int i = 0; i < mas1.Length; i++)
